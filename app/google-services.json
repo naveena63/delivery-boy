@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435260858907",
+    "firebase_url": "https://topshelfdelivery-fa79f.firebaseio.com",
+    "project_id": "topshelfdelivery-fa79f",
+    "storage_bucket": "topshelfdelivery-fa79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435260858907:android:231265ca8bd308c0f30ebe",
+        "android_client_info": {
+          "package_name": "com.iprismtech.delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435260858907-cjqo7us9ev5orm4jbrom4bio48l4qufp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iprismtech.delivery_boy",
+            "certificate_hash": "64154727386fd13fc0b33a9e635ce462840d2f9d"
+          }
+        },
+        {
+          "client_id": "435260858907-mmjantbur6jet33q216sl0vigb0eidok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyPnOPvTHGtYq1Vst2oF0rYOp7wOY5BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435260858907-mmjantbur6jet33q216sl0vigb0eidok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
